@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaSnakedia_2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaSnakedia_2_jar</output-path>
+    <root id="archive" name="JavaSnakedia_2.jar">
+      <element id="module-output" name="JavaSnakedia_2" />
+    </root>
+  </artifact>
+</component>
